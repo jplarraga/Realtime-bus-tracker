@@ -1,0 +1,26 @@
+body { 
+    margin: 0; 
+    padding: 0; 
+}
+
+#map { 
+    position: absolute; 
+    top: 0; 
+    bottom: 0; 
+    width: 100%; 
+}
+
+.map-overlay{
+  position: absolute;
+  left: 0;
+  padding: 10px;
+}
+
+button {
+    font-size: 1em;
+    border-radius: 10%;
+    color:ghostwhite;
+    size: 10%;
+    background-color: rgb(223, 27, 44);
+    font-family: Arial, Helvetica, sans-serif;
+}
