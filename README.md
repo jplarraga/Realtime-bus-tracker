@@ -1,6 +1,8 @@
 # Real Time Bus Tracker
 Map animation of a particular bus route and it's stops
 
+<img src="img/bus_tracker1.png" alt="bus_tracker">
+
 <h2> Description </h2>
   
 <p> This proyect is a Map animation of a certain location of Boston, the purpose of the excercise is to create a mark iteration over a set of bus stations and the mark is going to change after a certain time interval to simulate a bus movement over one chosen route (route 1). For This information from a json file from mvta.com has been fetched and then the attributes of longitude and latitude have been abstracted and pushed into an empty array that will contain the coordinates of all the bus stops of route 1, after the mark has been related to the function move() that will run the information fetching and then it will create a loop over each iterations of the bus stops array</p>
