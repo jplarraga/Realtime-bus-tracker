@@ -1,4 +1,4 @@
-# Realtime-bus-tracker
+# Real Time Bus Tracker
 Map animation of a particular bus route and it's stops
 
 <h2> Description </h2>
