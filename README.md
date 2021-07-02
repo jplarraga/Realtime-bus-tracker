@@ -28,7 +28,7 @@ The second usage is geo location in which we can graphically represent the posit
 <h2> Support </h2>
 <p>
 If you are stuck somewhere in this code, please feel free to contact me at:
-
+</p>
 <h4>Email:</h4>
 
 <a href="mailto:jplarraga@gmail.com">jplarraga@gmail.com</a>
